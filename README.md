@@ -50,7 +50,7 @@ The Meme Generator is a React-powered web app that enables users to easily creat
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<a href="https://the-best-book-on-earth.onrender.com/">Live</a>
+<a href="https://meme-generator-t2bd.onrender.com">Live</a>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
